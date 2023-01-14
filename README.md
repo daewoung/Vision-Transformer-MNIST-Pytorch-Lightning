@@ -1,3 +1,4 @@
 # Visual_Transformer_VIT_MNIST-Pytorch-Lightning
-Paper : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-PDF : https://arxiv.org/pdf/2010.11929
+--- 
+#### Vision Transformer (VIT)를 MNIST Dataset에 적용한 Pytorch 코드입니다. 
+#### 코드에 대한 설명은 블로그에 있습니다. 
