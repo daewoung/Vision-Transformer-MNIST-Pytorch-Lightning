@@ -1,1 +1,1 @@
-# Visual_Transformer-VIT-_MNIST-Pytorch-Lightning
+# Visual_Transformer_VIT_MNIST-Pytorch-Lightning
